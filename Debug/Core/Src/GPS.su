@@ -1,0 +1,3 @@
+../Core/Src/GPS.c:27:6:GpsInit	16	static
+../Core/Src/GPS.c:32:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/GPS.c:54:6:ReadGPSCordinate	72	static
