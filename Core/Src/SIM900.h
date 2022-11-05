@@ -20,7 +20,7 @@
 #define  EnableHTTPS   "AT+HTTPSSL=1\r\n"
 #define  SetCIDPAR     "AT+HTTPPARA= \"CID\",1\r\n"
 #define  Google         "www.google.com\r\n"
-#define  SetURL        "AT+HTTPPARA=\"URL\",\"https://script.google.com/macros/s/AKfycbxEPoGshAFIKhv-pHxg6oy4EH_aJG_v9VWqDn5eo7jzrX6dUNS4SqAAiIXy3hnAYXZB7A/exec?"
+#define  SetURL        "AT+HTTPPARA=\"URL\",\"YOUR GOOGLE SCRIPT"
 #define  HTTPRequest   "AT+HTTPACTION=0\r\n"
 #define  HTTPResponse  "AT+HTTPREAD\r\n"
 #define  TERMINATEHTTP "AT+HTTPTERM\r\n"
